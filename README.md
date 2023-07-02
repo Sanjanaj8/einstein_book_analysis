@@ -1,7 +1,7 @@
 # Einstein and the Quantum NLP Project
 This repository contains the code and resources for the Einstein and the Quantum NLP Project. The project aims to explore the book "Einstein and the Quantum: The Quest of the Valiant Swabian" by A. Douglas Stone using Natural Language Processing (NLP) techniques. The goal is to gain insights into the book's content, analyze its linguistic characteristics, and visualize key concepts through various NLP tasks.
 This project is inspired by Avery smith. 
-Here is the link to his video where he explains this project in depth- https://www.youtube.com/watch?v=sZNNdJro_sw&t=101s
+<br> Here is the link to his video where he explains this project in depth- https://www.youtube.com/watch?v=sZNNdJro_sw&t=101s
 
 **Libraries used are NLTK, SpaCy, Pandas, Numpy, Plotly and Matplotlib.**
 Since I have used GitHub doesnt support Plotly, here is the link to nbviewer where you can check out the book_analysis
