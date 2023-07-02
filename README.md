@@ -18,7 +18,12 @@ https://nbviewer.org/github/Sanjanaj8/einstein_book_analysis/blob/main/book_anal
 - Visualized Part-of-Speech (POS) tags and syntactic dependencies.
 - Utilized the BILOU scheme for entity recognition.
 - Implemented various NLP tasks such as text preprocessing, frequency analysis, collocation identification, and visualization techniques.
-- Created captivating word clouds, and masked onto images, to visualize key concepts.
+- Created a wordcloud, and masked them onto images, to visualize key concepts.
+  
+![image](https://github.com/Sanjanaj8/einstein_book_analysis/assets/94822193/b0ae72b8-f362-453e-947b-b18a486d723e)
+
+![image](https://github.com/Sanjanaj8/einstein_book_analysis/assets/94822193/3e9f5c84-7d6a-45db-9141-73f43acfada0)
+
 
 # Acknowledgments
 I would like to express our gratitude to A. Douglas Stone for writing the book "Einstein and the Quantum: The Quest of the Valiant Swabian" and providing valuable insights into the world of quantum theory. 
