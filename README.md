@@ -4,7 +4,7 @@ This project is inspired by Avery smith.
 <br> Here is the link to his video where he explains this project in depth- https://www.youtube.com/watch?v=sZNNdJro_sw&t=101s
 
 **Libraries used are NLTK, SpaCy, Pandas, Numpy, Plotly and Matplotlib.**
-Since I have used GitHub doesnt support Plotly, here is the link to nbviewer where you can check out the book_analysis
+<br> Since GitHub doesnt support Plotly, here is the link to nbviewer where you can check out the book_analysis
 https://nbviewer.org/github/Sanjanaj8/einstein_book_analysis/blob/main/book_analysis.ipynb
 
 # Project Highlights
